@@ -1,4 +1,13 @@
 package Session02_Excercise;
+//        [Bài tập] Xác thực dữ liệu sử dụng vòng lặp
+//        1. Mục tiêu:
+//        Luyện tập sử dụng vòng lặp while
+//
+//        2. Mô tả:
+//        Trong phần này, chúng ta sẽ phát triển một ứng dụng
+//        cho phép người dùng nhập vào 3 cạnh của một tam giác
+//        kiểm tra xem nếu 3 cạnh đấy thỏa mãn điều kiện trở thành 1 tam giác
+//        thì cho phép tính diện tích và chu vi nếu không thì bắt người dùng nhập lại
 
 import java.util.Scanner;
 

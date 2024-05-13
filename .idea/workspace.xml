@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="854c530e-acb9-4872-ac6d-418f1aec0995" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session02_Decision Marking - Loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Do_While_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/For_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Foreach_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/If_Else_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Jump_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Switch_Case_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Document/While_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_08.java" afterDir="false" />
-    </list>
+    <list default="true" id="854c530e-acb9-4872-ac6d-418f1aec0995" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +47,7 @@
     "Application.Switch_Case_Demo.executor": "Run",
     "Application.While_Demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
