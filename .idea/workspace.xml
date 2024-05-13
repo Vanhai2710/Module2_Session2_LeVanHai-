@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="854c530e-acb9-4872-ac6d-418f1aec0995" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session02_Decision Marking - Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Do_While_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/For_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Foreach_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/If_Else_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Jump_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/Switch_Case_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Document/While_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Session02_Excercise/Excercise_08.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gJfwcmlBVHgTKMpOKrDJRnaeoz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Do_While_Demo.executor": "Run",
+    "Application.Excercise_01.executor": "Run",
+    "Application.Excercise_02.executor": "Run",
+    "Application.Excercise_03.executor": "Run",
+    "Application.Excercise_04.executor": "Run",
+    "Application.Excercise_05.executor": "Run",
+    "Application.Excercise_06.executor": "Run",
+    "Application.Excercise_07.executor": "Run",
+    "Application.Excercise_08.executor": "Run",
+    "Application.For_Demo.executor": "Run",
+    "Application.Foreach_Demo.executor": "Run",
+    "Application.If_Else_Demo.executor": "Run",
+    "Application.Jump_Demo.executor": "Run",
+    "Application.Switch_Case_Demo.executor": "Run",
+    "Application.While_Demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="854c530e-acb9-4872-ac6d-418f1aec0995" name="Changes" comment="" />
+      <created>1715420841753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715420841753</updated>
+    </task>
+    <servers />
+  </component>
+</project>
